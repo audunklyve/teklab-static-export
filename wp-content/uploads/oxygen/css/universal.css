@@ -970,6 +970,12 @@ z-index: 1000;
 
 .static-ingress {
 }
+.sokeform {
+}
+.teklab-search-form {
+ font-size:22px;
+ text-align:center;
+}
 img {
 	max-width: 100% !important;
 }
@@ -1138,7 +1144,12 @@ height: auto;
 
 #bokiframe {
 	min-width: 100%;
-}.title a{
+}.oxy-search-form input{
+ align-items:center;
+ justify-content:center;
+ align-content:center;
+}
+.title a{
  font-size:1.5rem;
 }
 a{
