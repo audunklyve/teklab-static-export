@@ -975,6 +975,15 @@ z-index: 1000;
 .teklab-search-form {
  font-size:22px;
  text-align:center;
+ padding-top:15%;
+ padding-left:5%;
+ padding-right:5%;
+}
+.search-overlay {
+}
+.teklab-search-trigger {
+ width:100%;
+ min-width:100%;
 }
 img {
 	max-width: 100% !important;
@@ -1148,6 +1157,8 @@ height: auto;
  align-items:center;
  justify-content:center;
  align-content:center;
+ min-width:100%;
+ width:100%;
 }
 .title a{
  font-size:1.5rem;
